@@ -1,0 +1,56 @@
+body{
+    background-color: silver;
+}
+.H{
+    border: 1px solid rgb(0, 0, 0);
+    width: 200px;
+    height: 50px;
+    color: rgb(0, 0, 0);
+    background-color: silver;
+    left: 40%;
+    top: 40%;
+    position: absolute;
+}
+.B{
+    border: 1px solid rgb(0, 0, 0);
+    width: 150px;
+    height: 50px;
+    color:black ;
+    position: absolute;
+    left : 20%;
+    top: 40%;
+}
+.I{
+    border: 1px solid rgb(0, 0, 0);
+    width: 150px;
+    height: 50px;
+    color: black;
+    position: absolute;
+    left : 40%;
+    top: 40%;
+}
+.J{
+    border: 1px solid rgb(0, 0, 0);
+    width: 150px;
+    height: 50px;
+    color: black;
+    position: absolute;
+    left : 60%;
+    top: 40%;
+}
+.P{
+    position: absolute;
+    left : 23%;
+    top: 35%;
+}
+
+.PP {
+    position: absolute;
+    left : 43%;
+    top: 35%;
+}
+.PPP{
+    position: absolute;
+    left : 63%;
+    top: 35%;
+}

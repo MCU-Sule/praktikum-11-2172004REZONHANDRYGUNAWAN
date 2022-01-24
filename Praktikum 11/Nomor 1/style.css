@@ -1,0 +1,30 @@
+body {
+	margin: 0 auto;
+	background-color: rgb(230, 142, 110);
+}
+
+h1 {
+	margin: 0 auto;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+.speed {
+	position: absolute;
+	width: 100px;
+	left: 48%;
+	bottom: 1%;
+	background-color: rgb(1, 1, 1, 0.1);
+}
+
+.speed p {
+	margin: 6px;
+	position: left;
+}
+
+.speed input {
+	width: 30px;
+	background-color: rgb(230, 142, 110);
+}
